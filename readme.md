@@ -1,1 +1,1 @@
-ログをtail -f で見てください。HP-UX HITAC
+*.datをtail -f で見てください。HP-UX HITAC
